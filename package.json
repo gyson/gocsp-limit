@@ -1,0 +1,15 @@
+{
+  "name": "gocsp-limit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyson <eilian.yunsong@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "es6-promise": "^2.0.0",
+    "tape": "^3.0.3"
+  }
+}
